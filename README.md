@@ -180,7 +180,7 @@ MarketKasaSistemi/
 | **Emre Kurtuldu** | Ürün modeli, kalıtım | `Urun.java`, `Gida.java`, `Elektronik.java`, `Temizlik.java` |
 | **Batuhan Karabaş** | Müşteri & sadakat puanı | `Musteri.java`, `MusteriYonetimi.java` |
 | **Furkan Korunur** | Kampanya & indirim | `Kampanya.java`, `KampanyaYonetimi.java` |
-| **Ataberk Ergin** | Sepet & kasa , Ödeme sistemi & interface | `Odeme.java`, `Nakit.java`, `Kart.java` | `Sepet.java`, `Kasa.java` |
+| **Ataberk Ergin** | Sepet & kasa , Ödeme sistemi & interface | `Odeme.java`, `Nakit.java`, `Kart.java`, `Sepet.java`, `Kasa.java` |
 | **Zeki Enis Öztürk** | Ana menü, entegrasyon | `Main.java`, `UrunYonetimi.java` |
 
 ---
