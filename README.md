@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/27390400/README.2.md)
+[README.md](https://github.com/user-attachments/files/27390400/README.2.md)
 
 # MarketKasaSistemi 🛒
 
